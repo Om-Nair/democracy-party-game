@@ -1,0 +1,12 @@
+{
+  "name": "democracy-party-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A real-time party game of official definitions and suspicious clues.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
